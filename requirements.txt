@@ -1,0 +1,9 @@
+# Windsurf 数据管理器依赖
+
+# 打包工具依赖
+pyinstaller>=6.0.0
+
+# 注意：脚本本身使用 Python 标准库，无需额外依赖
+# 以下标准库已包含在 Python 中：
+# - tkinter, os, sys, json, shutil, sqlite3
+# - pathlib, dataclasses, typing, datetime
